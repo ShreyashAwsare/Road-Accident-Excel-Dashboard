@@ -15,7 +15,7 @@ The client wants to create a Road Dashboard for years 2021 and 2022 so that they
 - Relation Between Casualties by Area / Location & by Day/Night
 
 
-# Analyses derived from the dataset
+# Analysis derived from the dataset
 ## Overview 
 ![271662824-35fe8e66-586b-48da-98a0-831a95f375d4](https://github.com/user-attachments/assets/bac12411-a3b7-4ee9-a1c8-764357777430)
 ## Timeline and Slicers 
